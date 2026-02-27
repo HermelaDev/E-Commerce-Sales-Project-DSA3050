@@ -1,4 +1,5 @@
-# 📊 E-Commerce-Sales-Project (DSA3050)
+![Dashboard Preview](Dashboard.png)
+# E-Commerce-Sales-Project (DSA3050)
 **Instructor:** Prof. Austin Owur Odera  
 **Student:** Hermela Seltanu Gizaw (670446)
 
