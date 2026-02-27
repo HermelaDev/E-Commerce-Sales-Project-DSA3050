@@ -1,4 +1,11 @@
-![Dashboard Preview](Dashboard.png)
+<div align="center">
+
+  <img src="Dashboard.png" alt="E-Commerce Executive Dashboard Preview" width="600">
+
+  <p><em>Figure 1: DSA3050 E-Commerce Sales Performance Dashboard</em></p>
+
+</div>
+
 # E-Commerce-Sales-Project (DSA3050)
 **Instructor:** Prof. Austin Owur Odera  
 **Student:** Hermela Seltanu Gizaw (670446)
